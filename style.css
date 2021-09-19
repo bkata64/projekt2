@@ -1,0 +1,25 @@
+body {
+    width: 70%;
+    margin: auto;
+}
+
+#doboz {
+    border: 4px double green;    
+    padding: 20px;
+    width: 400px;
+    position: relative;    
+    left: 20px;
+}
+
+nav a {
+    text-decoration: none;
+    background-color: green;
+    color: white;
+    padding: 10px;
+    display:inline-block;
+}
+
+nav {
+    position: sticky;
+    top: 0;
+}
